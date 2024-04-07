@@ -8,4 +8,8 @@ COMBO_ENABLE = yes
 
 # This is for RGB *underglow*
 # https://github.com/qmk/qmk_firmware/blob/master/docs/feature_rgblight.md
-RGBLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = yes
+
+REPEAT_KEY_ENABLE = yes
+
+CAPS_WORD_ENABLE = yes
